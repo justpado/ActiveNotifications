@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jaeyeollim/ActiveNotifications/Application/build/intermediates/res/merged/debug/mipmap-mdpi/ic_notification.png",
+        "source": "/Users/jaeyeollim/ActiveNotifications/Application/src/main/res/mipmap-mdpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/jaeyeollim/ActiveNotifications/Application/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/jaeyeollim/ActiveNotifications/Application/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

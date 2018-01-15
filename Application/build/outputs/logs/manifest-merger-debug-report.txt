@@ -1,0 +1,73 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml:17:1-37:12
+	package
+		ADDED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml:18:5-54
+	android:versionName
+		ADDED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml:20:5-30
+		INJECTED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml:19:5-28
+		INJECTED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml:22:5-34:19
+MERGED from [com.android.support:support-v13:25.1.0] /Users/jaeyeollim/.android/build-cache/4d68b201686e5bfbed2a6b6c1812bd4065ca01f0/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.1.0] /Users/jaeyeollim/.android/build-cache/ee731b1c39c9d456c065f4cfb6ed8500e493744f/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/jaeyeollim/.android/build-cache/b0c62fec194fb18c501e59c6a7a0c07ba06ad24e/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /Users/jaeyeollim/.android/build-cache/316f68250024b506148d02ca4da4413558ba6fc1/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/jaeyeollim/.android/build-cache/8491e047f35363d5f6c8b720003e7df3513d5899/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/jaeyeollim/.android/build-cache/d7df95b36a43f6e6980e56dd30ea2504ea186350/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/jaeyeollim/.android/build-cache/2c6dbc3d3de191b33343da18863edc382d042c26/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/jaeyeollim/.android/build-cache/ecfac18f3135afe8f59e1af1054c52fbad14bfc6/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/jaeyeollim/.android/build-cache/409b9f417d23dd8f2baed47507249a0bec0fae01/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/jaeyeollim/.android/build-cache/2968abeddca60ecd9f2f0f352c27a6bf8b0f2ff3/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /Users/jaeyeollim/.android/build-cache/bdb2f45dfb6b6b4fe80b782cce6bc17f42c5dca0/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml:23:9-41
+	android:allowBackup
+		ADDED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml:22:18-44
+	android:icon
+		ADDED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml:24:9-43
+	android:theme
+		ADDED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml:25:9-40
+activity#com.example.android.activenotifications.ActiveNotificationsActivity
+ADDED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml:27:9-33:20
+	android:label
+		ADDED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml:28:19-51
+	android:name
+		ADDED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml:27:19-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.1.0] /Users/jaeyeollim/.android/build-cache/4d68b201686e5bfbed2a6b6c1812bd4065ca01f0/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.1.0] /Users/jaeyeollim/.android/build-cache/ee731b1c39c9d456c065f4cfb6ed8500e493744f/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/jaeyeollim/.android/build-cache/b0c62fec194fb18c501e59c6a7a0c07ba06ad24e/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.0] /Users/jaeyeollim/.android/build-cache/316f68250024b506148d02ca4da4413558ba6fc1/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/jaeyeollim/.android/build-cache/8491e047f35363d5f6c8b720003e7df3513d5899/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/jaeyeollim/.android/build-cache/d7df95b36a43f6e6980e56dd30ea2504ea186350/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/jaeyeollim/.android/build-cache/2c6dbc3d3de191b33343da18863edc382d042c26/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/jaeyeollim/.android/build-cache/ecfac18f3135afe8f59e1af1054c52fbad14bfc6/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/jaeyeollim/.android/build-cache/409b9f417d23dd8f2baed47507249a0bec0fae01/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/jaeyeollim/.android/build-cache/2968abeddca60ecd9f2f0f352c27a6bf8b0f2ff3/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] /Users/jaeyeollim/.android/build-cache/bdb2f45dfb6b6b4fe80b782cce6bc17f42c5dca0/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.1.0] /Users/jaeyeollim/.android/build-cache/4d68b201686e5bfbed2a6b6c1812bd4065ca01f0/output/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/jaeyeollim/ActiveNotifications/Application/src/main/AndroidManifest.xml

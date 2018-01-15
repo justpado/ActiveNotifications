@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/jaeyeollim/ActiveNotifications/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/jaeyeollim/.android/build-cache/b0c62fec194fb18c501e59c6a7a0c07ba06ad24e/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/jaeyeollim/ActiveNotifications/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/jaeyeollim/.android/build-cache/b0c62fec194fb18c501e59c6a7a0c07ba06ad24e/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/jaeyeollim/ActiveNotifications/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/jaeyeollim/.android/build-cache/b0c62fec194fb18c501e59c6a7a0c07ba06ad24e/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/jaeyeollim/ActiveNotifications/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/jaeyeollim/.android/build-cache/b0c62fec194fb18c501e59c6a7a0c07ba06ad24e/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

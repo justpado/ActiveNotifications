@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jaeyeollim/.android/build-cache/2968abeddca60ecd9f2f0f352c27a6bf8b0f2ff3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/jaeyeollim/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56592b5efd3b18d298c19fbeb761d0891725f69e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaeyeollim/.android/build-cache/ee731b1c39c9d456c065f4cfb6ed8500e493744f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/Users/jaeyeollim/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b45a24826a9df6c30b2549a8d2268eef5444f8a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaeyeollim/.android/build-cache/8491e047f35363d5f6c8b720003e7df3513d5899/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/jaeyeollim/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e1f63e9d198477d002926f4f80502d44a563c5dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaeyeollim/.android/build-cache/4d68b201686e5bfbed2a6b6c1812bd4065ca01f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e006c9b6f0aaed9d8c7934b74039738390fe3468">
+        <dex dex="/Users/jaeyeollim/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0125434c521e2db9e36941aa063bc1f141bc650d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaeyeollim/.android/build-cache/ecfac18f3135afe8f59e1af1054c52fbad14bfc6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/jaeyeollim/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_227dd04f6d76cb5338ddd4947195a34e3c7e5f40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaeyeollim/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/jaeyeollim/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_43352bfffac874813a43f8d8e342f67a30a7bea6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaeyeollim/.android/build-cache/b0c62fec194fb18c501e59c6a7a0c07ba06ad24e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/jaeyeollim/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c2cfc707b0af6bff3381fe08cde0ef47c52d496/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaeyeollim/.android/build-cache/2c6dbc3d3de191b33343da18863edc382d042c26/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/jaeyeollim/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc58c000e810ae115c1fd3e2babf7d9d19bbf382/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaeyeollim/.android/build-cache/409b9f417d23dd8f2baed47507249a0bec0fae01/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/jaeyeollim/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5cdaeabac8d061cf586b047571c6cd79f6a19a5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaeyeollim/.android/build-cache/bdb2f45dfb6b6b4fe80b782cce6bc17f42c5dca0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/jaeyeollim/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_90f5e67bdf65aadbbf51c850865e4f55f75b70cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaeyeollim/.android/build-cache/d7df95b36a43f6e6980e56dd30ea2504ea186350/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/jaeyeollim/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_094ddffb896a2c09cf52dd1fd19321c6aeed17a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaeyeollim/.android/build-cache/316f68250024b506148d02ca4da4413558ba6fc1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jaeyeollim/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65fc8232f947183e007d75d3de6c996e54512e24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaeyeollim/ActiveNotifications/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/jaeyeollim/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_25735333b03719cb626a885eaf82a782645c2b13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jaeyeollim/ActiveNotifications/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f4f13806916890b554ec8ec2fe30c6e902ff780">
+        <dex dex="/Users/jaeyeollim/ActiveNotifications/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4d26fc72df65f8d3a74f4edbe163fb4a15b715fe/classes.dex" />
+    </item>
+
+</items>
